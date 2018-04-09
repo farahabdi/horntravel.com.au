@@ -49,9 +49,9 @@
   <!--==============================
               Stuck menu
   =================================-->
-    <div class="container">
+    <div class="container menu-header-container">
       <div class="row">
-        <div class="grid_12 rel">
+        <div class="grid_12 rel menu-header">
           <h1>
             <a href="index.html">
               <img src="images/logo.png" alt="Logo alt">

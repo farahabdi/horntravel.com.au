@@ -374,6 +374,11 @@ a:hover {
 .oh {
   overflow: hidden;
 }
+
+.map-top {
+  margin-top: 25px;
+}
+
 .fright {
   float: right !important;
 }

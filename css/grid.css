@@ -480,3 +480,33 @@ table {
     margin-left: 0;
   }
 }
+
+
+.menu-header {
+  display: flex;
+    justify-content: unsafe;
+    justify-content: space-between;
+}
+
+
+
+.menu-header-container {
+  width: 100%;
+  display: flex;
+  margin: unset;
+  justify-content: space-between;
+}
+
+.navigation {
+  display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+  width: 235px;
+}
+
+.map-top {
+  margin-top: 25px;
+}
